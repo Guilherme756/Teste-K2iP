@@ -14,8 +14,4 @@ Connect to real Ios Device or emulator
 
 ---
 
-### Configure the ANDROID_HOME environment variable
-The React Native tools require some environment variables to be set up in order to build apps with native code.
-
-Add the following lines to your $HOME/.bash_profile or $HOME/.bashrc (if you are using zsh then ~/.zprofile or ~/.zshrc) config file:
 
